@@ -19,11 +19,11 @@ relativeurls = true
   disableReadOtherPosts = false
 
   # Metadata mostly used in document's head
-  description = "My new homepage or blog"
+  description = "My Personal Page"
   keywords = "homepage, blog"
   images = [""]
 
-  homeSubtitle = "CFIoT 2020"
+  homeSubtitle = "Security Enthusiast"
 
   # Directory name of your blog content (default is `content/posts`)
   contentTypeName = "posts"
@@ -32,7 +32,7 @@ relativeurls = true
   defaultTheme = "dark"
 
   [params.logo]
-    logoText     = "$ cd /home/"
+    logoText     = "$ cd /home/ondra/"
     logoHomeLink = "/"
     # Set true to remove the logo cursor entirely.
     # logoCursorDisabled = false
@@ -56,18 +56,18 @@ relativeurls = true
 
   [[params.social]]
     name = "linkedin"
-    url  = "https://www.linkedin.com/"
+    url  = "https://www.linkedin.com/in/ondrej-vokoun/"
 
 [languages]
   [languages.en]
-    title = "Ondrej Vokoun"
+    title = "Ondřej Vokoun"
     subtitle = "Personal Page"
     keywords = ""
     copyright = ""
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "$ cd /home/"
+      logoText = "$ cd /home/ondra"
       logoHomeLink = "/"
     # or
     #
@@ -78,9 +78,16 @@ relativeurls = true
 [menu]
   [[menu.main]]
     identifier = "blog"
-    name       = "Blog"
-    url        = "/posts"
+    name       = "Travel Blog"
+    url        = "https://www.ranecnazadech.cz/"
   [[menu.main]]
     identifier = "about"
-    name       = "About"
+    name       = "About me"
     url        = "about/"
+
+[mediaTypes]
+  [mediaTypes."text/html"]
+  suffixes = ["html"]
+[outputFormats]
+  [outputFormats.HTML]
+  mediaType = "text/html"

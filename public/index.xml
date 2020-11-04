@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ondrej Vokoun</title>
+    <title>Ondřej Vokoun</title>
     <link>//www.vokouond.eu/</link>
-    <description>Recent content on Ondrej Vokoun</description>
+    <description>Recent content on Ondřej Vokoun</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Apr 2020 16:42:19 +0200</lastBuildDate>
-    
-	<atom:link href="//www.vokouond.eu/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 11 Apr 2020 16:42:19 +0200</lastBuildDate><atom:link href="//www.vokouond.eu/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project Proposal</title>
       <link>//www.vokouond.eu/posts/project-proposal/</link>
@@ -21,13 +17,15 @@
     </item>
     
     <item>
-      <title>About</title>
+      <title>Ondřej Vokoun</title>
       <link>//www.vokouond.eu/about/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>//www.vokouond.eu/about/</guid>
-      <description> Members Hey, our small team consists of:
- Andrea Blumer Ondrej Vokoun AnTing Hu  </description>
+      <description>About me During my studies, I fell in love with everything related to computer security, from reverse engineering to web security. Always up to learning new things.
+Currently based in Prague, Czech Republic.
+Studies As of 2020, I have a Bachelor Degree from FIT CTU at Prague and currently working on my Master Degree there.
+During my Master Degree studies, I&amp;rsquo;ve been studying at NTUST in Taiwan (known as Taiwan Tech).</description>
     </item>
     
   </channel>
